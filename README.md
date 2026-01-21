@@ -82,13 +82,12 @@ yaml
 
 ---
 
-### 🔹 STEP 3: Save & Close
 - **Ctrl + S**
 - Close Notepad
 
 ---
 
-### 🔹 STEP 4: Git me add & push
+
 ```cmd
 git add README.md
 git commit -m "Added README file"
